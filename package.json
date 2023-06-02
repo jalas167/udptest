@@ -1,0 +1,14 @@
+{
+  "name": "udptest",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start server": "node server.js",
+    "start client": "node client.js"
+  },
+  "author": "jalas167",
+  "license": "MIT"
+}
